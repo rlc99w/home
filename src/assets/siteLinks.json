@@ -1,13 +1,13 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "首页",
+    "link": "http://49.234.49.248/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "http://49.234.49.248:5244/"
   },
   {
     "icon": "CompactDisc",
@@ -17,21 +17,21 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "http://49.234.49.248/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "link": "http://49.234.49.248:81"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "中转站",
+    "link": "http://49.234.49.248:82"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://pod.renlicai99w.repl.co/dashboard"
   }
 ]
